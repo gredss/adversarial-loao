@@ -1,5 +1,12 @@
 # Adversarial Robustness of Parameter-Efficient Fine-Tuning under Cross-Domain Shift
 
+[![NLP](https://img.shields.io/badge/NLP-Indonesian-blue)](#)
+[![Model](https://img.shields.io/badge/Backbone-IndoBERTweet-brightgreen)](#)
+[![PEFT](https://img.shields.io/badge/Method-LoRA%20vs%20Full%20FT-red)](#)
+[![Security](https://img.shields.io/badge/Security-Adversarial%20Robustness-blueviolet)](#)
+[![Reduction](https://img.shields.io/badge/Parameters-97.6%25%20Reduced-blue)](#)
+[![Security](https://img.shields.io/badge/Robustness--Gap--0.79%25-brightgreen)](#)
+
 This repository contains the implementation and experimental results for a comparative study on the security and efficiency of Indonesian transformer models. The research evaluates the impact of Low-Rank Adaptation (LoRA) versus Full Fine-Tuning when subjected to character-level evasion attacks in a cross-domain, Leave-One-App-Out (LOAO) environment.
 
 ## Research Objectives
