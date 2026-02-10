@@ -1,4 +1,9 @@
 # Adversarial Robustness of Parameter-Efficient Fine-Tuning under Cross-Domain Shift
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](#)
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow?style=for-the-badge)](#)
+[![NVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](#)
+[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](#)
 
 [![NLP](https://img.shields.io/badge/NLP-Indonesian-blue)](#)
 [![Model](https://img.shields.io/badge/Backbone-IndoBERTweet-brightgreen)](#)
