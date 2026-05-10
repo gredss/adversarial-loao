@@ -1,4 +1,9 @@
 # Adversarial Robustness of Parameter-Efficient Fine-Tuning under Cross-Domain Shift
+
+> 📄 Accepted at [
+13th Electrical Power, Electronics, Communications, Controls, and Informatics Seminar 2026](https://eeccis.ub.ac.id)  
+> IEEE Paper: **"Adversarial Robustness of LoRA under Cross-Domain Shift in Indonesian Ride-Hailing Reviews"**
+
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](#)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow?style=for-the-badge)](#)
